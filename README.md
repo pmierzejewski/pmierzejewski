@@ -3,7 +3,7 @@
 - 🎙 I'm podcaster, co-host of [Kod na Biegunach Podcast](https://podcasts.apple.com/pl/podcast/kod-na-biegunach/id1556006433) in 🇵🇱
 - 📚 I have experience in:
   - Leading mobile product development at various stages
-  - Serving as a Tech Lead in projects empower best practices, discussing best architectural approaches, encountered problems and supporting team wellbeing
+  - Serving as a Tech Lead in the projects. Empowering best practices. Discussing best architectural approaches, encountered problems and supporting team wellbeing
   - Managing crises situations in projects
   - Consulting business, tech and UX solutions with stakeholders
   - Maintaining CI/CD pipelines in mobile projects
