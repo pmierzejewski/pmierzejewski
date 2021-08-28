@@ -4,7 +4,7 @@
 - 📚 I have experience in:
   - Leading mobile product development at various stages
   - Serving as a Tech Lead in the projects. Empowering best practices. Discussing best architectural approaches, encountered problems and supporting team wellbeing
-  - Managing crises situations in projects
+  - Managing crisis situations in projects
   - Consulting business, tech and UX solutions with stakeholders
   - Maintaining CI/CD pipelines in mobile projects
   - Producing podcasts
